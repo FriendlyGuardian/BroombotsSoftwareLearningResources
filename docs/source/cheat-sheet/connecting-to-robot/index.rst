@@ -3,6 +3,7 @@ Connecting To The Robot
 
 We need to connect to the robot in order to change the code on the robot
 There are two ways to connect to the robot
+
 * ``ADB`` (Android Debug Bridge)
 * Direct Connection
 
@@ -15,6 +16,7 @@ The control hub hosts its own wi-fi network as the only method for wireless comm
 This is how the driver hub communicates with the robot.
 
 Steps
+
 * In Windows, Navigate to the task bar
 * Click on the wi-fi symbol
 * Click again onto the left part of the wi-fi tab
@@ -61,3 +63,9 @@ This is a wired connection to the robot. All you need to do is plug a wire into 
     Make sure you unplug the wire before running the robot as to not damage anything!
 
 
+Troubleshooting
+---------------
+
+**cannot connect to an unreachable host**
+
+Either you are not actually connected to the robot or the robot already has a previous connection
