@@ -18,5 +18,5 @@ Contents
 
 .. toctree::
 
-   Initial Configuration
+   Initial Configuration <Initial_Configuration/index.rst>
    api
