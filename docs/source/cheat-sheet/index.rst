@@ -9,8 +9,6 @@ Most tasks should be able to be completed only referencing these resources.
     I will just give surface level notes or context. 
     For a deeper understanding of how all of things work, reference the rest of the documentation!
 
-Contents
----------
 
 .. toctree::
     :maxdepth:6
