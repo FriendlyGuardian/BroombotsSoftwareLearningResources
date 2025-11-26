@@ -10,7 +10,7 @@ Most tasks should be able to be completed only referencing these resources.
     For a deeper understanding of how all of things work, reference the rest of the documentation!
 
 Contents
-==========
+---------
 
 .. toctree::
     Basic Java <basic-Java/index.rst>
