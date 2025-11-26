@@ -13,9 +13,9 @@ Contents
 ---------
 
 .. toctree::
-    Basic Java <basic-Java/index.rst>
-    Basic FTC SDK <basic-SDK/index.rst>
-    Connecting To The Robot <connecting-to-robot/index.rst>
-    Classes <making-a-new-class/index.rst>
-    Opmodes <opmodes/index.rst>
-    Using Github <using-github/index.rst>
+    Basic Java <cheat-sheet/basic-Java/index.rst>
+    Basic FTC SDK <cheat-sheet/basic-SDK/index.rst>
+    Connecting To The Robot <cheat-sheet/connecting-to-robot/index.rst>
+    Classes <cheat-sheet/making-a-new-class/index.rst>
+    Opmodes <cheat-sheet/opmodes/index.rst>
+    Using Github <cheat-sheet/using-github/index.rst>
